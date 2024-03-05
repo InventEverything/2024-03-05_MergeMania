@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2024-03-05_MergeMania", "2024-03-05_MergeMania\2024-03-05_MergeMania.csproj", "{FD7A2FFC-8E4F-4853-B605-E8A7C6314E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7A2FFC-8E4F-4853-B605-E8A7C6314E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7A2FFC-8E4F-4853-B605-E8A7C6314E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7A2FFC-8E4F-4853-B605-E8A7C6314E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7A2FFC-8E4F-4853-B605-E8A7C6314E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80484E5E-4647-4868-870E-EFC4F3058684}
+	EndGlobalSection
+EndGlobal
